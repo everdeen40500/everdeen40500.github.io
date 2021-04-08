@@ -18,15 +18,15 @@ remote_theme : mmistakes/minimal-mistakes
 locale                   : "en-US"
 title                    : "Everdeen40500 TIL Blog👩‍💻"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Everdeen40500's GitBlog" # site tagline that appears below site title in masthead
 name                     : "everdeen40500"
-description              : "An amazing website."
+description              : "Everdeen40500's GitBlog"
 url                      : "https://everdeen40500.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "everdeen40500/everdeen40500.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Everdeen40500's GitBlog" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -95,10 +95,11 @@ analytics:
 # Site Author
 author:
   name             : "everdeen"
-  avatar           :"KakaoTalk_20191009_234039541_10.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is my Gitblog.
-I usually upload TIL.
-You can check the TIL articles that I wrote in the TIL folder."
+  avatar           : "KakaoTalk_20191009_234039541_10.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "
+  This is my Gitblog. 
+  I usually upload TIL. 
+  You can check the TIL articles that I wrote in the TIL folder."
   location         : "suwon, South Korea"
   email            : "everdeen40500@gmail.com"
   links:
