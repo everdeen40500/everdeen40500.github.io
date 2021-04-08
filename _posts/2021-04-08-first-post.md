@@ -5,6 +5,6 @@ categories: post
 ---
 This is my Gitblog.
 I usually upload TIL.
-You can check the TIL articles that I wrote in the TIL folder.
+You can check the TIL articles that I wrote in the posts folder.
 
 
