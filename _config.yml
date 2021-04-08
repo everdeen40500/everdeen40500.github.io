@@ -96,10 +96,7 @@ analytics:
 author:
   name             : "everdeen"
   avatar           : "C:/Users/bora9/OneDrive/바탕 화면/배경화면 아이콘/imageKakaoTalk_20191009_234039541_10.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "
-  This is my Gitblog. 
-  I usually upload TIL. 
-  You can check the TIL articles that I wrote in the TIL folder."
+  bio              : "This is my Gitblog. \nI usually upload TIL.\n You can check the TIL articles that I wrote in the TIL folder."
   location         : "suwon, South Korea"
   email            : "everdeen40500@gmail.com"
   links:
