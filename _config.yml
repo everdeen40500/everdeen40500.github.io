@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 remote_theme : mmistakes/minimal-mistakes
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Everdeen40500 TIL Blog👩‍💻"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "everdeen40500"
@@ -94,15 +94,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "everdeen"
+  avatar           :"KakaoTalk_20191009_234039541_10.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "This is my Gitblog.
+I usually upload TIL.
+You can check the TIL articles that I wrote in the TIL folder."
+  location         : "suwon, South Korea"
+  email            : "everdeen40500@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:everdeen40500@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,10 +116,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/everdeen40500"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.instagram.com/everdeenthx/"
 
 # Site Footer
 footer:
