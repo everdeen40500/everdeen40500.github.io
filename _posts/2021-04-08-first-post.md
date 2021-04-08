@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My GitBlogll!"
 date: 2021-04-08 13:09:28 -0400
-categories: jekyll update
+categories: TIL
 ---
 This is my Gitblog.
 I usually upload TIL.
